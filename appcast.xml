@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>CEO-GPT</title>
+    <link>https://raw.githubusercontent.com/AurelienSen/ceo-gpt-app-releases/main/appcast.xml</link>
+    <description>CEO-GPT Release Feed</description>
+    <language>de</language>
+    <!-- Release entries are appended by the release workflow -->
+  </channel>
+</rss>
