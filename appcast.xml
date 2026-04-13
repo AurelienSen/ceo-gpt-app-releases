@@ -6,5 +6,13 @@
     <description>CEO-GPT Release Feed</description>
     <language>de</language>
     <!-- Release entries are appended by the release workflow -->
+      <item>
+      <title>Version 1.0.6</title>
+      <pubDate>Mon, 13 Apr 2026 20:29:26 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/AurelienSen/ceo-gpt-app-releases/releases/download/v1.0.6/CEO-GPT-1.0.6.zip" length="4707946" type="application/octet-stream" sparkle:edSignature="qjWTM1F75IIz4mWYi/p0JctfLacPgGNfOjNx2zHAyGJiPvB41Lz5sJWFuoXkchbZWOCSPSHA4UxfNUJQXFtkBw=="/>
+    </item>
   </channel>
 </rss>
